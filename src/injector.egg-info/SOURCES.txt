@@ -1,0 +1,8 @@
+setup.cfg
+src/injector/__init__.py
+src/injector/payload.py
+src/injector.egg-info/PKG-INFO
+src/injector.egg-info/SOURCES.txt
+src/injector.egg-info/dependency_links.txt
+src/injector.egg-info/top_level.txt
+src/injector.egg-info/zip-safe

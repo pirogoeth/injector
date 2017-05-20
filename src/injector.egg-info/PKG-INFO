@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: injector
+Version: 0.1.0
+Summary: Library for injecting tracers (or other things) into code easily.
+Home-page: https://github.com/pirogoeth/injector
+Author: Sean Johnson
+Author-email: sean.johnson@maio.me
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Utilities
