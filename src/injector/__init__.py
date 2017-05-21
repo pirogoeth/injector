@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 
-from injector import payload
+from injector import (
+    any,
+    payload,
+)
 
 
 def injector_from_payload(payload_name, **kw):
